@@ -1,2 +1,2 @@
 # SoftUniDemo
-SoftUni Demo Repo
+This is Demo Repo fo SoftUni Fundamentals
